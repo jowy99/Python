@@ -24,7 +24,7 @@ def list_to_string(list_to_convert):
 
 # -------------------------------------------------------------
 
-# Pin movil
+# iPhone
 
 randomlist = random.sample(range(0, 9), 6)
 randomlist = list_to_string(randomlist)
